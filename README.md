@@ -26,5 +26,5 @@
 
 
 
-**Код тестового класу та результат, отриманий у консолі, буде наступним:**
+### Код тестового класу та результат, отриманий у консолі, буде наступним:
 ![class Customer advanced2](https://github.com/ppc-ntu-khpi/java-1-mariiatsykura/blob/main/Solution/advanced(3).png)
