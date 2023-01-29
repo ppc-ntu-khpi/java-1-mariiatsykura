@@ -19,7 +19,9 @@
 Далі, я змінила код класу **CustomerTest** таким чином, щоб, користуючись методом **set**, було введено нові значення атрибутів класу
 
 **Таким чином, код класу Cutomer буде наступний:**
+
 ![class Customer advanced](https://github.com/ppc-ntu-khpi/java-1-mariiatsykura/blob/main/Solution/advanced(1).png)
+
 ![class Customer advanced2](https://github.com/ppc-ntu-khpi/java-1-mariiatsykura/blob/main/Solution/advanced(2).png)
 
 
